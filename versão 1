@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plantas que Curam</title>
+    <style>
+        /* Resetando estilos básicos */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Definindo o estilo geral da página */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Cabeçalho */
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+        }
+
+        header p {
+            font-size: 1.2rem;
+        }
+
+        nav ul {
+            list-style-type: none;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+
+        nav ul li a:hover {
+            color: #e1f5e1;
+        }
+
+        /* Seções */
+        section {
+            padding: 20px;
+            margin: 20px 0;
+        }
+
+        h2 {
+            font-size: 2rem;
+            color: #4CAF50;
+        }
+
+        /* Lista de plantas */
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Plantas que Curam</h1>
+        <p>Explore o mundo das plantas medicinais e como elas podem melhorar nossa saúde.</p>
+        <nav>
+            <ul>
+                <li><a href="#introducao">Introdução</a></li>
+                <li><a href="#beneficios">Benefícios das Plantas Medicinais</a></li>
+                <li><a href="#plantas">Plantas que Curam</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="introducao">
+        <h2>Introdução</h2>
+        <p>Desde os tempos antigos, as plantas medicinais têm sido utilizadas para tratar uma ampla variedade de doenças. Elas são fonte de remédios naturais e ajudam no equilíbrio do corpo e da mente. Neste projeto, vamos refletir sobre o impacto que as plantas medicinais podem ter na nossa saúde e como utilizá-las de forma eficaz.</p>
+    </section>
+
+    <section id="beneficios">
+        <h2>Benefícios das Plantas Medicinais</h2>
+        <ul>
+            <li>Alívio de dores e inflamações.</li>
+            <li>Melhora na digestão e função intestinal.</li>
+            <li>Redução do estresse e da ansiedade.</li>
+            <li>Ação antibiótica e antiviral.</li>
+        </ul>
+    </section>
+
+    <section id="plantas">
+        <h2>Plantas que Curam</h2>
+        <p>Algumas plantas comumente utilizadas na medicina natural incluem:</p>
+        <ul>
+            <li><strong>Camomila:</strong> Conhecida por suas propriedades calmantes e digestivas.</li>
+            <li><strong>Gengibre:</strong> Usado para combater náuseas e melhorar a circulação.</li>
+            <li><strong>Aloe Vera:</strong> Eficaz no tratamento de queimaduras e irritações na pele.</li>
+            <li><strong>Alho:</strong> Potente antibiótico natural e ajuda no sistema imunológico.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Projeto desenvolvido por [Seu Nome].</p>
+        <p><a href="https://www.linkedin.com" target="_blank" style="color: white;">Visite meu perfil no LinkedIn</a></p>
+    </footer>
+
+    <!-- Instruções do GitHub (exemplo de README.md) -->
+    <section id="readme">
+        <h2>Como Publicar no GitHub</h2>
+        <p>Agora que você tem a estrutura do seu projeto, pode publicá-lo no GitHub e no GitHub Pages. Aqui está um passo a passo para ajudá-lo a completar a publicação:</p>
+        <ol>
+            <li><strong>Criar Repositório:</strong> No GitHub, crie um novo repositório com o nome <code>projeto-agrinho-desmatamento</code> e uma descrição clara, como: "Página para refletir sobre o desmatamento".</li>
+            <li><strong>Adicionar Arquivos:</strong> No repositório, adicione os arquivos principais: <code>index.html</code>, <code>style.css</code> e <code>README.md</code>.</li>
+            <li><strong>Commit e Versão:</strong> Ao adicionar os arquivos, adicione um commit com a mensagem "versao0".</li>
+            <li><strong>Estrutura do Projeto:</strong> O arquivo <code>README.md</code> deve conter informações sobre o projeto, como as tecnologias usadas, descrições das seções, e as plantas que você está promovendo. Exemplo de estrutura:</li>
+        </ol>
+        <pre>
+# Impacto do Desmatamento
+Este projeto é uma página web informativa sobre os impactos do desmatamento no meio ambiente e na qualidade de vida das pessoas.
+
+### Estrutura do Projeto
+Tecnologias Utilizadas:
+- HTML
+- CSS
+
+### Descrição das Seções:
+- Introdução
+- Benefícios das Plantas Medicinais
+- Plantas que Curam
+        </pre>
+        <ol start="5">
+            <li><strong>Publicar no GitHub Pages:</strong> Acesse as configurações do repositório e ative o GitHub Pages para tornar a página acessível online.</li>
+            <li><strong>Descrição do Repositório:</strong> Na página do repositório, adicione a descrição completa, como "Página para refletir sobre o desmatamento", e marque com a tag "agrinho".</li>
+        </ol>
+    </section>
+
+</body>
+</html>
