@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plantas que Curam</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f9f0;
+      color: #2e4d2e;
+    }
+    header {
+      background-color: #a3d9a5;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+    }
+    nav {
+      background-color: #82c58a;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #fff;
+      font-weight: bold;
+    }
+    main {
+      padding: 20px;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #265b2f;
+    }
+    footer {
+      background-color: #a3d9a5;
+      text-align: center;
+      padding: 10px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Plantas que Curam</h1>
+    <p>Conheça os benefícios e os cuidados com as plantas medicinais</p>
+  </header>
+
+  <nav>
+    <a href="#plantas">Principais Plantas</a>
+    <a href="#beneficios">Benefícios</a>
+    <a href="#cuidados">Cuidados</a>
+    <a href="#conclusao">Conclusão</a>
+  </nav>
+
+  <main>
+    <section id="plantas">
+      <h2>Principais Plantas</h2>
+      <h3>Camomila</h3>
+      <p>Calmante natural, auxilia no sono e na ansiedade.</p>
+      <h3>Babosa (Aloe Vera)</h3>
+      <p>Regeneradora da pele, usada em queimaduras e hidratação.</p>
+      <h3>Hortelã</h3>
+      <p>Digestiva, refrescante e usada para aliviar dores de cabeça.</p>
+    </section>
+
+    <section id="beneficios">
+      <h2>Benefícios</h2>
+      <ul>
+        <li>Alternativa natural para tratamentos leves</li>
+        <li>Menos efeitos colaterais que remédios sintéticos</li>
+        <li>Baixo custo</li>
+        <li>Podem ser cultivadas em casa</li>
+      </ul>
+    </section>
+
+    <section id="cuidados">
+      <h2>Cuidados</h2>
+      <p>É essencial ter orientação profissional antes do uso. Verifique a identificação correta da planta e evite excessos.</p>
+    </section>
+
+    <section id="conclusao">
+      <h2>Conclusão</h2>
+      <p>As plantas medicinais são aliadas da saúde e do bem-estar. Respeite seu uso e preserve esse conhecimento tradicional.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Plantas que Curam. Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
